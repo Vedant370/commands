@@ -1,0 +1,6 @@
+git add <file_name>
+git add <file1> <file2>
+git add .
+git add -u
+git add <directory_name>
+git add -i
