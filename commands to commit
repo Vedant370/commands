@@ -1,0 +1,4 @@
+git commit -m "Your commit message here"
+git commit -a -m "Your commit message here"
+git commit --amend -m "Updated commit message"
+git commit
